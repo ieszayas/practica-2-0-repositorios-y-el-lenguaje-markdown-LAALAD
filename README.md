@@ -7,6 +7,8 @@ Logúeate convenientemente en tu cuenta de Github Classroom para poder acceder a
 
 ### Enunciado
 
+
+adriana
  Crear un archivo en formato *markdown* (*README.md*) que sirva como documentación de un proyecto ficticio.
  
  El archivo debe contener varios apartados en los que se incluyan los elementos que permite el lenguaje; texto formateado, una lista, una tabla, imágenes, enlaces y un bloque de código de código de instalación, como en las capturas mostradas a continuación
