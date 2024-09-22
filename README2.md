@@ -110,7 +110,7 @@ El Sistema de Gestión de Inventarios es una solución diseñada para optimizar 
 `}`
 
 
-## IMAGEN
+## BORRADOR DEL LOGO 
 ![alt text](LOGO.png)
 
 ## SOFTWARES SIMILARES
