@@ -21,6 +21,11 @@ El Sistema de Gestión de Inventarios es una solución diseñada para optimizar 
 - Actualización automática de stock al recibir productos.
 - Historial completo de órdenes de compra y pagos a proveedores.
 
+##INSTALACIÓN
+´git clone https://github.com/usuario/proyecto-de-prueba.git´
+´cd proyecto-de-prueba´
+´pip install -r requirements.txt´
+
 ## REQUISITOS DEL SISTEMA
 - *Lenguajes de Programación:* Python, JavaScript (con React para la interfaz).
 - *Base de Datos:* MySQL o PostgreSQL.
