@@ -122,3 +122,5 @@ El Sistema de Gestión de Inventarios es una solución diseñada para optimizar 
 - [Odoo](https://www.odoo.com/es_ES/app/inventory?utm_source=google&utm_medium=cpc&utm_campaign=WEU-ES-ES-Inventory_App-Specific-Values&gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ696XfUeXsF92iy5hx_IPGq3z3jgn0MBnFiqz4tVLPVFYrvJPT4SOSQaAtTSEALw_wcB)
 - [Timly](https://timly.com/es/software-de-gestion-de-inventarios-medicos/?utm_feeditemid&utm_device=c&utm_term=gesti%C3%B3n%20de%20inventario&utm_source=google&utm_medium=cpc&utm_campaign=ES%2B%20%7C%20Gestion%20de%20inventarios&hsa_cam=21159235138&hsa_grp=160201983029&hsa_mt=p&hsa_src=g&hsa_ad=699459815272&hsa_acc=7499781921&hsa_net=adwords&hsa_kw=gesti%C3%B3n%20de%20inventario&hsa_tgt=kwd-316705517492&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ69XujBC53dDsIKbCgl0J3xKn2nF4pMSeY0g9_cBOTcsL7ZSyGxWw6saAkRvEALw_wcB)
 - [Yunbit](https://www.yunbitsoftware.com/sga-sistema-de-gestion-de-almacenes/?gad_source=1&gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ6_gMSB7GVP3kz5LiAXuaC1_ucJkBH29jFnUo_DsDJindKJPgJtJBt4aAo89EALw_wcB)
+
+cambio a revertir
